@@ -67,7 +67,7 @@ und erklärt dabei ihre Tricks und Kniffe allgemeinverständlich.
 ### bankster.by.hanno.vollenweider.2016.german.book.scan.600dpi.deskew.tiff
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:1875a44a80676f8752a4fc9c2f701b6f542aa201&dn=bankster.by.hanno.vollenweider.2016.german.book.scan.600dpi.deskew.tiff&xl=997124991&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
