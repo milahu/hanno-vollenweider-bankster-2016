@@ -93,7 +93,7 @@
       <span class='ocrx_word' id='word_1_63' title='bbox 346 1233 460 1305; x_wconf 96'>der</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 486 1235 758 1305; x_wconf 95'>Trainee</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 791 1233 893 1305; x_wconf 92'>oft</span>
-      <span class='ocrx_word' id='word_1_66' title='bbox 924 1236 990 1304; x_wconf 91'>ın</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 924 1236 990 1304; x_wconf 91'>in</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 1022 1233 1319 1305; x_wconf 96'>mehrere</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 1351 1233 1654 1326; x_wconf 96'>Projekte</span>
       <span class='ocrx_word' id='word_1_69' title='bbox 1688 1234 2096 1328; x_wconf 96'>gleichzeitig</span>
@@ -193,7 +193,7 @@
       <span class='ocrx_word' id='word_1_147' title='bbox 345 2135 657 2230; x_wconf 96'>gefeuert,</span>
       <span class='ocrx_word' id='word_1_148' title='bbox 697 2166 848 2208; x_wconf 93'>man</span>
       <span class='ocrx_word' id='word_1_149' title='bbox 886 2140 1077 2208; x_wconf 92'>triezt</span>
-      <span class='ocrx_word' id='word_1_150' title='bbox 1115 2137 1230 2207; x_wconf 89'>ıhn</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 1115 2137 1230 2207; x_wconf 89'>ihn</span>
       <span class='ocrx_word' id='word_1_151' title='bbox 1268 2136 1524 2208; x_wconf 96'>einfach</span>
       <span class='ocrx_word' id='word_1_152' title='bbox 1562 2166 1636 2209; x_wconf 96'>so</span>
       <span class='ocrx_word' id='word_1_153' title='bbox 1673 2136 1876 2230; x_wconf 96'>lange,</span>
@@ -438,7 +438,7 @@
       <span class='ocrx_word' id='word_1_352' title='bbox 2835 4197 2964 4239; x_wconf 93' lang='deu'>we-</span>
      </span>
      <span class='ocr_line' id='line_1_33' title="bbox 337 4280 2963 4377; baseline -0.001 -24; x_size 94; x_descenders 23; x_ascenders 29">
-      <span class='ocrx_word' id='word_1_353' title='bbox 337 4284 448 4376; x_wconf 88' lang='deu'>nıg</span>
+      <span class='ocrx_word' id='word_1_353' title='bbox 337 4284 448 4376; x_wconf 88' lang='deu'>nig</span>
       <span class='ocrx_word' id='word_1_354' title='bbox 482 4311 1006 4377; x_wconf 88' lang='deu'>auszuspannen.</span>
       <span class='ocrx_word' id='word_1_355' title='bbox 1047 4282 1163 4355; x_wconf 96' lang='deu'>Ich</span>
       <span class='ocrx_word' id='word_1_356' title='bbox 1198 4282 1525 4377; x_wconf 96' lang='deu'>hingegen</span>

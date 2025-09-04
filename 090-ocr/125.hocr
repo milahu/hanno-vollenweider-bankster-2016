@@ -123,7 +123,7 @@
       <span class='ocrx_word' id='word_1_63' title='bbox 1863 1592 2053 1665; x_wconf 96'>dafür</span>
       <span class='ocrx_word' id='word_1_64' title='bbox 2081 1596 2222 1665; x_wconf 96'>eine</span>
       <span class='ocrx_word' id='word_1_65' title='bbox 2253 1592 2459 1666; x_wconf 92'>Strafe</span>
-      <span class='ocrx_word' id='word_1_66' title='bbox 2489 1596 2555 1664; x_wconf 90'>ın</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 2489 1596 2555 1664; x_wconf 90'>in</span>
       <span class='ocrx_word' id='word_1_67' title='bbox 2585 1592 2790 1665; x_wconf 96'>Höhe</span>
       <span class='ocrx_word' id='word_1_68' title='bbox 2818 1623 2954 1665; x_wconf 96'>von</span>
      </span>
@@ -299,7 +299,7 @@
     <p class='ocr_par' id='par_1_22' lang='deu' title="bbox 444 3172 2953 3268">
      <span class='ocr_line' id='line_1_23' title="bbox 444 3172 2953 3268; baseline 0.001 -24; x_size 95; x_descenders 23; x_ascenders 30">
       <span class='ocrx_word' id='word_1_179' title='bbox 444 3172 975 3268; x_wconf 91'>Strafgefangene</span>
-      <span class='ocrx_word' id='word_1_180' title='bbox 1005 3176 1070 3245; x_wconf 88'>ın</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 1005 3176 1070 3245; x_wconf 88'>in</span>
       <span class='ocrx_word' id='word_1_181' title='bbox 1101 3173 1215 3246; x_wconf 96'>der</span>
       <span class='ocrx_word' id='word_1_182' title='bbox 1243 3178 1443 3245; x_wconf 95'>DDR</span>
       <span class='ocrx_word' id='word_1_183' title='bbox 1470 3204 1707 3268; x_wconf 96'>sorgen</span>

@@ -130,7 +130,7 @@
      </span>
      <span class='ocr_line' id='line_1_10' title="bbox 317 1599 2936 1695; baseline 0 -25; x_size 93; x_descenders 21; x_ascenders 30">
       <span class='ocrx_word' id='word_1_99' title='bbox 317 1599 599 1671; x_wconf 93'>anderen</span>
-      <span class='ocrx_word' id='word_1_100' title='bbox 624 1602 781 1671; x_wconf 88'>Taxı</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 624 1602 781 1671; x_wconf 88'>Taxi</span>
       <span class='ocrx_word' id='word_1_101' title='bbox 810 1603 1199 1695; x_wconf 95'>aussteigen,</span>
       <span class='ocrx_word' id='word_1_102' title='bbox 1230 1630 1296 1672; x_wconf 93'>er</span>
       <span class='ocrx_word' id='word_1_103' title='bbox 1321 1600 1566 1672; x_wconf 91'>winkte</span>
@@ -363,7 +363,7 @@
       <span class='ocrx_word' id='word_1_291' title='bbox 1579 3657 1850 3717; x_wconf 96'>musste,</span>
       <span class='ocrx_word' id='word_1_292' title='bbox 1887 3633 2086 3705; x_wconf 96'>nahm</span>
       <span class='ocrx_word' id='word_1_293' title='bbox 2122 3632 2228 3705; x_wconf 96' lang='eng'>ich</span>
-      <span class='ocrx_word' id='word_1_294' title='bbox 2263 3632 2400 3704; x_wconf 84'>ıhm</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 2263 3632 2400 3704; x_wconf 84'>ihm</span>
       <span class='ocrx_word' id='word_1_295' title='bbox 2438 3635 2663 3704; x_wconf 97'>seinen</span>
       <span class='ocrx_word' id='word_1_296' title='bbox 2700 3631 2943 3703; x_wconf 96'>Koffer</span>
      </span>

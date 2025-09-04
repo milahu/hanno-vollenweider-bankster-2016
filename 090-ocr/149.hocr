@@ -29,7 +29,7 @@
      <span class='ocr_line' id='line_1_2' title="bbox 320 651 2936 747; baseline 0.001 -25; x_size 84; x_descenders 12; x_ascenders 30">
       <span class='ocrx_word' id='word_1_13' title='bbox 320 679 385 722; x_wconf 96'>se</span>
       <span class='ocrx_word' id='word_1_14' title='bbox 424 654 658 723; x_wconf 93'>mitten</span>
-      <span class='ocrx_word' id='word_1_15' title='bbox 696 654 761 723; x_wconf 88'>ın</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 696 654 761 723; x_wconf 88'>in</span>
       <span class='ocrx_word' id='word_1_16' title='bbox 800 651 926 724; x_wconf 96'>den</span>
       <span class='ocrx_word' id='word_1_17' title='bbox 962 655 1384 747; x_wconf 96'>Vereinigten</span>
       <span class='ocrx_word' id='word_1_18' title='bbox 1423 658 1679 725; x_wconf 96'>Staaten</span>
@@ -387,7 +387,7 @@
      </span>
      <span class='ocr_line' id='line_1_30' title="bbox 306 4039 2940 4134; baseline 0.002 -26; x_size 95; x_descenders 23; x_ascenders 30">
       <span class='ocrx_word' id='word_1_304' title='bbox 306 4067 434 4109; x_wconf 93'>was</span>
-      <span class='ocrx_word' id='word_1_305' title='bbox 468 4041 535 4109; x_wconf 91'>ın</span>
+      <span class='ocrx_word' id='word_1_305' title='bbox 468 4041 535 4109; x_wconf 91'>in</span>
       <span class='ocrx_word' id='word_1_306' title='bbox 567 4041 814 4110; x_wconf 96'>seinem</span>
       <span class='ocrx_word' id='word_1_307' title='bbox 847 4039 1026 4111; x_wconf 96'>Land</span>
       <span class='ocrx_word' id='word_1_308' title='bbox 1058 4068 1133 4111; x_wconf 96'>so</span>
