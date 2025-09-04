@@ -16,12 +16,18 @@
       <span class='ocrx_word' id='word_1_1' title='bbox 837 626 1321 738; x_wconf 91'>HANNO</span>
       <span class='ocrx_word' id='word_1_2' title='bbox 1389 627 2507 739; x_wconf 92'>VOLLENWEIDER</span>
      </span>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_1_1a' title='bbox 671 1722 2703 2368; x_wconf 91'>BANKSTER</span>
+     </span>
      <span class='ocr_line' id='line_1_2' title="bbox 664 2494 2665 2578; baseline 0 -3; x_size 110; x_descenders 29; x_ascenders 18">
       <span class='ocrx_word' id='word_1_3' title='bbox 664 2494 1022 2577; x_wconf 94'>WOHIN</span>
       <span class='ocrx_word' id='word_1_4' title='bbox 1089 2494 1423 2577; x_wconf 96'>MILCH</span>
       <span class='ocrx_word' id='word_1_5' title='bbox 1490 2513 1698 2578; x_wconf 96'>UND</span>
       <span class='ocrx_word' id='word_1_6' title='bbox 1761 2495 2100 2578; x_wconf 96'>HONIG</span>
       <span class='ocrx_word' id='word_1_7' title='bbox 2165 2511 2665 2577; x_wconf 96'>FLIESSEN</span>
+     </span>
+     <span class='ocr_line'>
+      <span class='ocrx_word' id='word_1_3aa' title='bbox 1182 4328 2099 4423; x_wconf 94'>amadeus-verlag.com</span>
      </span>
     </p>
    </div>
