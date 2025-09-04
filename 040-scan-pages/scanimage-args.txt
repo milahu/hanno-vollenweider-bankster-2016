@@ -1,0 +1,1 @@
+sudo scanimage --device-name=brother5:bus3\;dev1 --resolution=600 --format=tiff --mode=True\ Gray --source=Automatic\ Document\ Feeder\(left\ aligned\,Duplex\) --MultifeedDetection=yes --SkipBlankPage=no --AutoDocumentSize=no --AutoDeskew=no -x 220 -y 156 --batch=040-scan-pages/%03d.tiff --progress --batch-print --batch-start=5

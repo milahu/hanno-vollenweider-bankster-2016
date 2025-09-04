@@ -1,0 +1,4 @@
+# TODO set config values
+
+ocr_lang=deu+eng
+# ocr_lang=eng

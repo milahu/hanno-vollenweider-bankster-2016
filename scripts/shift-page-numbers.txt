@@ -1,0 +1,7 @@
+# hint: replace "echo mv" by "mv"
+
+# shift up by 4
+for n in {116..1}; do n0=$(printf %03d $n); x=$((n + 4)); x0=$(printf %03d $x); echo mv -v $n0.tiff $x0.tiff; done
+
+# shift down by 4
+for n in {1..100}; do n0=$(printf %03d $n); x=$((n - 4)); x0=$(printf %03d $x); echo mv -v $n0.tiff $x0.tiff; done

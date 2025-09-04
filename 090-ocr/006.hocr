@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract 5.5.1' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_dir ocrp_lang ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "../070-deskew/006.tiff"; bbox 0 0 3310 5098; ppageno 0; scan_res 600 600'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 849 2427 3271 4355">
+    <p class='ocr_par' id='par_1_1' lang='deu' title="bbox 849 2427 3271 4355">
+     <span class='ocr_line' id='line_1_1' title="bbox 1186 2427 2037 2530; baseline -0.004 -23; x_size 102; x_descenders 24; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_1' title='bbox 1186 2427 1596 2530; x_wconf 96'>Copyright</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 1629 2436 1694 2505; x_wconf 96'>©</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 1726 2436 1910 2505; x_wconf 96'>2016</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 1940 2427 2037 2530; x_wconf 96'>by</span>
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 883 2549 2332 2653; baseline 0 -26; x_size 104; x_descenders 25; x_ascenders 31">
+      <span class='ocrx_word' id='word_1_5' title='bbox 883 2549 1266 2628; x_wconf 96'>Amadeus</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 1294 2549 1567 2653; x_wconf 96'>Verlag</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 1596 2549 1883 2628; x_wconf 92'>GmbH</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 1916 2560 1988 2628; x_wconf 92'>&amp;</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 2019 2554 2159 2628; x_wconf 95'>Co.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 2190 2554 2332 2627; x_wconf 96'>KG</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1366 2673 3259 2776; baseline -0.001 -25; x_size 103; x_descenders 25; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_11' title='bbox 1366 2673 1783 2776; x_wconf 91'>Birkenweg</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 1813 2683 1852 2750; x_wconf 96'>4</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 3256 2692 3270 2706; x_wconf 0'>;</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1288 2795 1934 2875; baseline 0 -1; x_size 103.41125; x_descenders 24.411255; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_14' title='bbox 1288 2806 1514 2875; x_wconf 93'>74576</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 1544 2795 1934 2874; x_wconf 91'>Fichtenau</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1237 2918 3235 2998; baseline -0.001 -1; x_size 87.904503; x_descenders 20.904505; x_ascenders 27.60804">
+      <span class='ocrx_word' id='word_1_16' title='bbox 1237 2927 1399 2998; x_wconf 95'>Fax:</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 1435 2929 1977 2998; x_wconf 96'>07962-710263</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 3232 2918 3235 2920; x_wconf 79' lang='eng'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1091 3042 2123 3145; baseline -0.002 -24; x_size 104; x_descenders 25; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_19' title='bbox 1091 3042 2123 3145; x_wconf 91' lang='eng'>www.amadeus-verlag.com</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 849 3165 2365 3268; baseline 0 -25; x_size 103; x_descenders 24; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_20' title='bbox 849 3166 1096 3245; x_wconf 93' lang='eng'>Email:</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 1131 3165 2365 3268; x_wconf 91' lang='eng'>amadeus@amadeus-verlag.com</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 1468 3407 3224 3511; baseline 0.004 -22; x_size 96; x_descenders 17; x_ascenders 31">
+      <span class='ocrx_word' id='word_1_22' title='bbox 1468 3407 1748 3511; x_wconf 95' lang='eng'>Druck:</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 3220 3470 3224 3475; x_wconf 85'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1025 3535 3233 3639; baseline -0.002 -24; x_size 104; x_descenders 26; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_24' title='bbox 1025 3541 1187 3615; x_wconf 92' lang='eng'>CPI</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 1226 3579 1283 3586; x_wconf 86' lang='eng'>—</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 1321 3536 1557 3614; x_wconf 93' lang='eng'>Ebner</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 1587 3546 1656 3614; x_wconf 93' lang='eng'>&amp;</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 1688 3535 1983 3639; x_wconf 95' lang='eng'>Spiegel,</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 2015 3535 2192 3614; x_wconf 96' lang='eng'>Ulm</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 3231 3548 3233 3550; x_wconf 70' lang='eng'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 1264 3658 1952 3761; baseline -0.001 -23; x_size 102; x_descenders 24; x_ascenders 29">
+      <span class='ocrx_word' id='word_1_31' title='bbox 1264 3664 1432 3738; x_wconf 96' lang='eng'>Satz</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 1459 3658 1616 3737; x_wconf 96' lang='eng'>und</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 1646 3665 1952 3761; x_wconf 96' lang='eng'>Layout:</span>
+     </span>
+     <span class='ocr_line' id='line_1_11' title="bbox 1299 3781 1914 3884; baseline -0.002 -25; x_size 103; x_descenders 25; x_ascenders 32">
+      <span class='ocrx_word' id='word_1_34' title='bbox 1299 3789 1431 3881; x_wconf 96' lang='eng'>Jan</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 1462 3782 1634 3860; x_wconf 96' lang='eng'>Udo</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 1666 3781 1914 3884; x_wconf 95' lang='eng'>Holey</span>
+     </span>
+     <span class='ocr_line' id='line_1_12' title="bbox 1172 3903 2041 4007; baseline -0.001 -24; x_size 103; x_descenders 24; x_ascenders 31">
+      <span class='ocrx_word' id='word_1_37' title='bbox 1172 3903 2041 4007; x_wconf 27' lang='eng'>Umschlaggestaltung:</span>
+     </span>
+     <span class='ocr_line' id='line_1_13' title="bbox 1287 4021 3271 4130; baseline 0 -25; x_size 103; x_descenders 24; x_ascenders 33">
+      <span class='ocrx_word' id='word_1_38' title='bbox 1287 4027 1650 4106; x_wconf 95' lang='eng'>Amadeus</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 1684 4027 1932 4130; x_wconf 95' lang='eng'>Holey</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 3269 4021 3271 4023; x_wconf 61' lang='eng'>|</span>
+     </span>
+     <span class='ocr_line' id='line_1_14' title="bbox 1109 4279 2105 4355; baseline 0 -4; x_size 89.216515; x_descenders 21.216513; x_ascenders 28.0201">
+      <span class='ocrx_word' id='word_1_41' title='bbox 1109 4279 1331 4355; x_wconf 93' lang='eng'>ISBN</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 1361 4283 2105 4353; x_wconf 90' lang='eng'>978-3-938656-37-2</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
