@@ -76,3 +76,13 @@ magnet:?xt=urn:btih:1875a44a80676f8752a4fc9c2f701b6f542aa201&dn=bankster.by.hann
 - http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/hanno-vollenweider-bankster-2016
 - http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/hanno-vollenweider-bankster-2016
 - http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/hanno-vollenweider-bankster-2016
+
+
+
+## template
+
+this repo is based on
+[github.com/milahu/hocr-files-template-repo](https://github.com/milahu/hocr-files-template-repo).
+if you want to copy this repo,
+then please copy the template repo,
+which has the latest versions of all files.
